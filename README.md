@@ -26,7 +26,7 @@ O projeto inclui:
 1.  Clone este repositório para sua máquina local:
 
     ```bash
-    git clone https://github.com/renisonramos/alura-python/tree/master
+    git clone https://github.com/renisonramos/alura-python
     ```
 2.  **Portfolio:** Abra o arquivo `portfolio/index.html` em um navegador.
 3.  **Aplicativo de Terminal:** Navegue até a pasta `sabor-express` no terminal e execute:
